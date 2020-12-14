@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/comptia-network-cert-n10-007-full-course-and-practice-exam-video/9781789532593)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # CompTIA-Network-Cert-N10-007-Full-Course-and-Practice-Exam
 Code Repository for CompTIA Network+ Cert (N10-007): Full Course and Practice Exam, Published by Packt
 # CompTIA Network+ Cert (N10-007): Full Course and Practice Exam [Video]
